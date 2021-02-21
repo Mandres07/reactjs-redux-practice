@@ -1,3 +1,3 @@
 ## Redux Learning
 
-A siple project implementing react-redux for learning purposes
+A simple reactjs project implementing react-redux for learning purposes
